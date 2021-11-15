@@ -1,7 +1,5 @@
 # python-assignment1
 
-# python-assignment2
-
 I . Write a program that does the following in order:
 1) Asks the user to enter a number “x”
 2) Asks the user to enter a number “y”
